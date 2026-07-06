@@ -212,7 +212,7 @@ public class ForLoop
         System.out.println("largest digit is "+larg);*/
 
         //Q23-WAJP to find smallest digit in a number.
-        int n=4628;
+        /*int n=4628;
         int a=n%10;
         int larg=n%10;
         for(int i=n;i>0;i=i/10)
@@ -223,7 +223,7 @@ public class ForLoop
                 larg=a;
             }
         }
-        System.out.println("Smallest digit is "+larg);
+        System.out.println("Smallest digit is "+larg);*/
 
 
 
