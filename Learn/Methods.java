@@ -74,8 +74,8 @@ class Methods
         //System.out.println("Product of "+a+" & "+b+" ="+product(a,b));
 
         //Q5-WAJP to return ASCII value of character.
-        char ch='h';
-        System.out.println("ASCII value of "+ch+"="+ascii(ch));
+        //char ch='h';
+        //System.out.println("ASCII value of "+ch+"="+ascii(ch));
 
 
     }
