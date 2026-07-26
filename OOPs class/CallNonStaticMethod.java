@@ -1,5 +1,5 @@
 public class CallNonStaticMethod {
-    int k;  //Non Static Variable
+    int k;  //Non Static Variable (We call it instance variable)
     public void sayHello()
     {
         System.out.println("Saying hello....");
