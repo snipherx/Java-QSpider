@@ -4,6 +4,8 @@ public class Mobile {
         Mobile m2=new Mobile();
         System.out.println(m1);
         System.out.println(m2);
+        CallNonStaticMethod k=new CallNonStaticMethod();
+        k.sayHello();
     }
     
 }
